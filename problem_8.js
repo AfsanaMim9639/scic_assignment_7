@@ -1,3 +1,4 @@
+//Capitalize First Letter of Each Word
 function capitalizeWords(str) {
     let words = str.split(" ");          
     for (let i = 0; i < words.length; i++) {  

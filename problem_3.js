@@ -1,3 +1,4 @@
+//Check for Palindrome
 function isPalindrome(str) {
     let left = 0;
     let right = str.length - 1;
